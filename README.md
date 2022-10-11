@@ -97,4 +97,4 @@ Give credit here.
 
 
 ## Contact
-Created by Harish Rathuri : [@harryraturi] - https://github.com/harryraturi  - feel free to contact me!
+Created by Harish Rathuri : [@harryraturi](https://github.com/harryraturi)  - feel free to contact me!
